@@ -1,7 +1,7 @@
 # Tutorial 
 # Hope Baldwin 
-# Exercise 07 
-# October 13, 2020
+# Exercise 08 
+# October 20, 2020
 
 # CHALLENGE 1
 
